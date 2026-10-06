@@ -1,0 +1,10 @@
+streamlit==1.65.0
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+gensim==4.4.0
+joblib==1.6.0
+trafilatura==2.2.0
+beautifulsoup4==4.15.0
+requests==2.34.2
